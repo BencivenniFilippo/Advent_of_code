@@ -1,0 +1,12 @@
+[project]
+name = "advent-of-code"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "ipykernel>=7.1.0",
+    "lock>=2018.3.25.2110",
+    "ruff>=0.14.7",
+    "sync>=1.0.0",
+]
