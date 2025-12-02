@@ -1,2 +1,2 @@
 # Advent_of_code
-Repository containing all my advent of code challenges
+Repo containing all my advent of code challenges
